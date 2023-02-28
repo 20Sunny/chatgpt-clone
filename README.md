@@ -1,4 +1,3 @@
-
 <p align="center">
   <img width="180" src="./public/logo.png" alt="ChatGPT">
   <h1 align="center">ChatGPT</h1>
