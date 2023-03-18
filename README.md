@@ -6,7 +6,7 @@
  
 ## 📦 Install
 
-- [📝 Update Log](./UPDATE_LOG.md)
+- [📝 Update Log](./UPDATE_LOG.md) 
 - [🕒 History versions...](https://github.com/lencx/ChatGPT/releases)
 
 <!-- Download start -->
