@@ -3,7 +3,7 @@
   <h1 align="center">ChatGPT</h1>
   <p align="center">ChatGPT Desktop Application (Mac, Windows and Linux)</p>
 </p>
- 
+  
 ## 📦 Install
 
 - [📝 Update Log](./UPDATE_LOG.md) 
