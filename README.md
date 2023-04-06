@@ -229,4 +229,3 @@ yarn build
 - [Error A public key has been found, but no private key. Make sure to set TAURI_PRIVATE_KEY environment variable.](https://github.com/lencx/ChatGPT/discussions/182)
 ## License
 Apache License
-
