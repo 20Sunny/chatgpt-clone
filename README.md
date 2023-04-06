@@ -207,7 +207,6 @@ It's safe, just a wrapper for [OpenAI ChatGPT](https://chat.openai.com) website,
   - [tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode)
 
 #### Start
-
 ```bash
 # step1:
 git clone https://github.com/lencx/ChatGPT.git
