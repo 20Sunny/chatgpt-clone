@@ -4,7 +4,7 @@
   <p align="center">ChatGPT Desktop Application (Mac, Windows and Linux)</p>
 </p>
 
-## 📦 Install 
+## 📦 Install
 
 - [📝 Update Log](./UPDATE_LOG.md) 
 - [🕒 History versions...](https://github.com/lencx/ChatGPT/releases)
